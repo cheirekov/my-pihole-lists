@@ -1,2 +1,6 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1665436272,1665436272,"Migrated from /etc/pihole/adlists.list",1671105237,162079,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1665436272,1665436272,"Migrated from /etc/pihole/adlists.list",1671192094,166010,0,1
+2,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts,1,1671191818,1671191870,AddPorn,1671192104,212656,0,1
+3,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts,1,1671191904,1671191930,Gambling,1671192114,172893,0,1
+4,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts,1,1671191965,1671191998,"Fake news",1671192125,168204,0,1
+5,https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts,1,1671192048,1671192077,Social,1671192132,168835,0,1
